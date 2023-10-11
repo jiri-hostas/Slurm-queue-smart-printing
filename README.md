@@ -12,7 +12,7 @@ Default output of `squeue -u $USER` command:
 </p>
 
 Things to work on:
-- making a single version working for all compute canada clusters
+- make a single version to work for all compute canada clusters
 - include different job metrics than job location
 
 ![](https://komarev.com/ghpvc/?username=jiri-hostas)
