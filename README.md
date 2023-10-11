@@ -11,4 +11,8 @@ A simple bash script for visualization of job location on compute canada grid. S
   <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output.jpg" width=50% height=25%>
 </p>
 
+Things to work on:
+- making a single version working for all compute canada clusters
+- include error detection if script is being run on more than 100
+
 ![](https://komarev.com/ghpvc/?username=jiri-hostas)
