@@ -8,7 +8,7 @@ Default:
 
 A simple output example:
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output">
+  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output.jpg">
 </p>
 
 
