@@ -6,7 +6,7 @@ Default:
   <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg">
 </p>
 
-![Alt text]([image link](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg))
+![Alt text](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg)
 
 
 A simple output example:
