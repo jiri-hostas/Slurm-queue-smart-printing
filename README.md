@@ -5,7 +5,7 @@ Default:
 ![example](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg)
 
 A simple output example:
-![output](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg)
+![output](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Output.jpg)
 
 
 ![](https://komarev.com/ghpvc/?username=jiri-hostas)
