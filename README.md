@@ -7,7 +7,9 @@ Default:
 </p>
 
 A simple output example:
-![output](https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Output.jpg)
+<p align="center">
+  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Output">
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=jiri-hostas)
