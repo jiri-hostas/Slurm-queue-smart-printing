@@ -13,6 +13,6 @@ A simple bash script for visualization of job location on compute canada grid. S
 
 Things to work on:
 - making a single version working for all compute canada clusters
-- include error detection if script is being run on more than 100
+- include different job metrics than job location
 
 ![](https://komarev.com/ghpvc/?username=jiri-hostas)
