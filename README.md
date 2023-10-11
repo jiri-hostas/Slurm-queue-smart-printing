@@ -3,7 +3,7 @@ A simple bash script for visualization of job location on compute canada grid. S
 
 Default:
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg" width=95% height=95%>
+  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg" width=50% height=50%>
 </p>
 
 A simple output example:
