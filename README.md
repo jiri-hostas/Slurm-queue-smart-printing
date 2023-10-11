@@ -6,7 +6,7 @@ Default:
   <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Example.jpg" width=75% height=75%>
 </p>
 
-A simple output example:
+A clean output example:
 <p align="center">
   <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output.jpg" width=55% height=55%>
 </p>
