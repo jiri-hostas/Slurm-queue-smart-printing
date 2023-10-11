@@ -6,12 +6,9 @@ Default:
   <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg">
 </p>
 
-![Alt text](http://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Example.jpg)
-
-
 A simple output example:
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/master/graphics/Output">
+  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output">
 </p>
 
 
