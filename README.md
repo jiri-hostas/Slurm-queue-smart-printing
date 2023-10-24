@@ -8,7 +8,7 @@ Default output of `squeue -u $USER` command:
 
 **A script output example:**
 <p align="center">
-  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output.jpg" width=50% height=25%>
+  <img src="https://github.com/jiri-hostas/Slurm-queue-smart-printing/blob/main/graphics/Output.jpg" width=75% height=50%>
 </p>
 
 Things to work on:
